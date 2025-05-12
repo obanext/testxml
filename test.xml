@@ -19,8 +19,8 @@
 <menu id="header">
 <item label="Collectie" link="/nl/collectie"/>
 <item label="Agenda" link="/nl/agenda/volledige-agenda"/>
-<item label="Hulp & ontwikkeling" link="/nl/hulp-en-ontwikkeling"/>
-<item label="Jeugd & Jongeren" link="/nl/jeugd-jongeren"/>
+<item label="Hulp &amp; ontwikkeling" link="/nl/hulp-en-ontwikkeling"/>
+<item label="Jeugd &amp; Jongeren" link="/nl/jeugd-jongeren"/>
 <item label="Locaties" link="/nl/locaties"/>
 <item label="Service" link="/nl/contact"/>
 </menu>

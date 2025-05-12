@@ -1,4 +1,4 @@
-<site headerBanner="" headerBannerLink="" headerBannerText="" hostname="https://openbare-bibliotheek-amsterdam-website-acceptance.vercel.app/" siteLogo="/content/dam/logo/oba-logo.png" siteLogoLink="https://www.oba.nl:443" siteLogoText="Openbare Bibliotheek Amsterdam" version="1.0">
+<site headerBanner="" headerBannerLink="" headerBannerText="" hostname="https://openbare-bibliotheek-amsterdam-website-acceptance.vercel.app" siteLogo="/content/dam/logo/oba-logo.png" siteLogoLink="https://www.oba.nl:443" siteLogoText="Openbare Bibliotheek Amsterdam" version="1.0">
 <plugins>
 <plugin id="readaloudsoftware">
 <provider>none</provider>

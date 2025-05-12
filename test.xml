@@ -48,7 +48,7 @@
 <item label="Inspiratie">
 <item label="nieuws" link="/nieuws.html"/>
 <item label="nieuwsbrief" link="/service/blijf-op-de-hoogte/Nieuwsbrieven.html"/>
-<item label="leestips & blogs" link="/leestips.html"/>
+<item label="leestips &amp; blogs" link="/leestips.html"/>
 <item label="Instagram" link="https://www.instagram.com/obamsterdam"/>
 <item label="bluesky" link="https://bsky.app/profile/obamsterdam.bsky.social"/>
 <item label="Twitter" link="https://twitter.com/OBAmsterdam"/>

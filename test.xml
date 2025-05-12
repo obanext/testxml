@@ -41,13 +41,12 @@
 <item label="">
 <item label="Vind jouw OBA-locatie" link="/nl/locaties"/>
 <item label="Nieuws" link="/nl/nieuws"/>
-<item label="Collectie" link="https://www.oba.nl/vestigingen"/>
-<item label="lidmaatschappen" link="https://www.oba.nl/service/word-lid"/>
-<item label="contact" link="/service/contact.html"/>
-<item label="in English" link="https://www.oba.nl/english.html"/>
+<item label="Collectie" link="/nl/collecties"/>
+<item label="OBA's boekentips" link="/nl/collectie/obas-boekentips"/>
+<item label="Lidmaatschappen" link="/nl/word-lid"/>
 </item>
-<item label="Inspiratie">
-<item label="nieuws" link="/nieuws.html"/>
+<item label="">
+<item label="Hulp en ontwikkeling" link="/nl/hulp-en-ontwikkeling"/>
 <item label="nieuwsbrief" link="/service/blijf-op-de-hoogte/Nieuwsbrieven.html"/>
 <item label="leestips &amp; blogs" link="/leestips.html"/>
 <item label="Instagram" link="https://www.instagram.com/obamsterdam"/>

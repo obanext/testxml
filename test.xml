@@ -13,7 +13,7 @@
 <item label="Samenwerken" link="/nl/over-oba/partners"/>
 <item label="Winkelwagen" link="/nl/winkelwagen"/>
 <item label="Zaalverhuur" link="https://www.obacongres.nl/"/>
-<item label="Inloggen" link="<item label="Inloggen" link="https://iguana.oba.nl/iguana/www.main.cls?theme=OBA&amp;surl=useractivities&amp;lang=dut"/>
+<item label="Inloggen" link="https://iguana.oba.nl/iguana/www.main.cls?theme=OBA&amp;surl=useractivities&amp;lang=dut"/>
 <item label="Word lid" link="/nl/word-lid" status="become-member loggedout"/>
 </menu>
 <menu id="header">
@@ -44,7 +44,6 @@
 <item label="lidmaatschappen" link="https://www.oba.nl/service/word-lid"/>
 <item label="contact" link="/service/contact.html"/>
 <item label="in English" link="https://www.oba.nl/english.html"/>
-</item>
 <item label="Inspiratie">
 <item label="nieuws" link="/nieuws.html"/>
 <item label="nieuwsbrief" link="/service/blijf-op-de-hoogte/Nieuwsbrieven.html"/>

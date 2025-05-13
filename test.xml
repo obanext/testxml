@@ -55,17 +55,36 @@
 <item label="">
 <item label="Over OBA" link="/nl/over-oba"/>
 <item label="Werken bij de OBA" link="/nl/over-oba/werken-bij-oba"/>
-<item label="steun ons" link="/over-ons/steun-ons.html"/>
-<item label="oba next" link="/obanext.html"/>
+<item label="Voor de pers" link="/nl/over-oba/voor-de-pers"/>
+<item label="Bestuur, toezicht en verslagen" link="/nl/over-oba/bestuur-toezicht-en-verslagen"/>
+<item label="Onze missie" link="/nl/over-oba/onze-missie"/>
+<item label="OBA Next" link="/nl/over-oba/oba-next1"/>
+<item label="Steun OBA" link="nl/over-oba/steun-oba"/>
+<item label="De geschiedenis van de OBA" link="/nl/over-oba/de-geschiedenis-van-oba"/>
 </item>
-<item label="Zakelijk">
-<item label="OBA School" link="/leren/oba-school.html"/>
-<item label="OBA Congres" link="https://www.obacongres.nl/"/>
+<item label="">
+<item label="Klantenservice en contact" link="/nl/contact"/>
+<item label="Lenen en inleveren" link="/nl/contact/lenen-inleveren"/>
+<item label="Online bibliotheek" link="/nl/contact/online-bibliotheek"/>
+<item label="in de Bibliotheek" link="/nl/contact/in-de-bibliotheek"/>
+<item label="Lidmaatschappen" link="/nl/contact/lidmaatschappen"/>
+<item label="Huisregels" link="/nl/contact/huisregels"/>
+<item label="Nieuwsbrieven" link="/nl/contact/nieuwsbrieven"/>
+</item>
+</item>
+<item label="">
+<item label="Voor scholen" link="/nl/voor-scholen"/>
+<item label="Vroeg voorschoolse educatie" link="/nl/voor-scholen/vroeg-voorschoolse-educatie"/>
+<item label="Primair onderwijs" link="/nl/voor-scholen/primair-onderwijs"/>
+<item label="Voortgezet onderwijs" link="/nl/voor-scholen/voortgezet-onderwijs"/>
+<item label="Middelbaar beroepsonderwijs" link="/nl/voor-scholen/middelbaar-beroepsonderwijs-oud"/>
+<item label="Maakonderwijs" link="/nl/voor-scholen/maakonderwijs"/>
 </item>
 </menu>
 <menu id="servicebottom">
-<item label="Privacystatement" link="http://oba.nl/privacy"/>
-<item label="Disclaimer" link="/disclaimer.html"/>
+<item label="Algoritmes" link="/nl/recommendation-algorithms"/>
+<item label="Privacystatement" link="/nl/privacy-statement"/>
+<item label="Disclaimer" link="/nl/disclaimer"/>
 </menu>
 </menus>
 </site>	

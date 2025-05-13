@@ -25,8 +25,8 @@
 <item label="Service" link="/nl/contact"/>
 </menu>
 <menu id="mobile">
-<item icon="home" id="home" label="Home" link="/nl"/>
-<item icon="collection" id="extra1" label="Word lid" link="/service/word-lid.html"/>
+<item icon="home" id="home" label="Home" link="/nl/"/>
+<item icon="collection" id="extra1" label="Word lid" link="/nl/word-lid.html"/>
 <item id="menu" label="Menu"/>
 <item icon="search" id="search" label="Zoeken"/>
 <item icon="events" id="events" label="Agenda" link="/nl/agenda/volledige-agenda"/>
@@ -47,10 +47,10 @@
 </item>
 <item label="">
 <item label="Hulp en ontwikkeling" link="/nl/hulp-en-ontwikkeling"/>
-<item label="nieuwsbrief" link="/service/blijf-op-de-hoogte/Nieuwsbrieven.html"/>
-<item label="leestips &amp; blogs" link="/leestips.html"/>
-<item label="Instagram" link="https://www.instagram.com/obamsterdam"/>
-<item label="bluesky" link="https://bsky.app/profile/obamsterdam.bsky.social"/>
+<item label="Hulp bij geldzaken" link="/nl/hulp-en-ontwikkeling/hulp-bij-geldzaken"/>
+<item label="Hulp bij taal" link="/nl/hulp-en-ontwikkeling/hulp-bij-taalvaardigheid"/>
+<item label="Hulp bij huiswerk en studeren" link="/nl/hulp-en-ontwikkeling/hulp-bij-huiswerk-en-studeren"/>
+<item label="Hulp bij digitaal: cursussen en workshops" link="https://bsky.app/profile/obamsterdam.bsky.social"/>
 <item label="Twitter" link="https://twitter.com/OBAmsterdam"/>
 <item label="Facebook" link="https://nl-nl.facebook.com/OBAmsterdam/"/>
 <item label="linkedin" link="https://www.linkedin.com/company/591373"/>

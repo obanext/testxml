@@ -50,14 +50,11 @@
 <item label="Hulp bij geldzaken" link="/nl/hulp-en-ontwikkeling/hulp-bij-geldzaken"/>
 <item label="Hulp bij taal" link="/nl/hulp-en-ontwikkeling/hulp-bij-taalvaardigheid"/>
 <item label="Hulp bij huiswerk en studeren" link="/nl/hulp-en-ontwikkeling/hulp-bij-huiswerk-en-studeren"/>
-<item label="Hulp bij digitaal: cursussen en workshops" link="https://bsky.app/profile/obamsterdam.bsky.social"/>
-<item label="Twitter" link="https://twitter.com/OBAmsterdam"/>
-<item label="Facebook" link="https://nl-nl.facebook.com/OBAmsterdam/"/>
-<item label="linkedin" link="https://www.linkedin.com/company/591373"/>
+<item label="Hulp bij digitaal: cursussen en workshops" link="/nl/hulp-en-ontwikkeling/cursussen-en-workshops"/>
 </item>
-<item label="Over ons">
-<item label="vacatures" link="/over-ons/werken-bij-de-oba.html"/>
-<item label="voor de pers" link="/over-ons/voor-de-pers.html"/>
+<item label="">
+<item label="Over OBA" link="/nl/over-oba"/>
+<item label="Werken bij de OBA" link="/nl/over-oba/werken-bij-oba"/>
 <item label="steun ons" link="/over-ons/steun-ons.html"/>
 <item label="oba next" link="/obanext.html"/>
 </item>

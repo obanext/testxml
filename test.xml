@@ -39,35 +39,31 @@
 </menu>
 <menu id="footer">
 <item label="">
-<item label="Vind jouw OBA-locatie" link="/nl/locaties"/>
+<item label="OBA-locatie" link="/nl/locaties"/>
 <item label="Nieuws" link="/nl/nieuws"/>
-<item label="Collectie" link="/nl/collecties"/>
+<item label="Collectie" link="/nl/collectie"/>
 <item label="OBA's boekentips" link="/nl/collectie/obas-boekentips"/>
 <item label="Lidmaatschappen" link="/nl/word-lid"/>
+<item label="Amsterdam Public Library in English" link="/nl/english"/>
 </item>
 <item label="">
 <item label="Hulp en ontwikkeling" link="/nl/hulp-en-ontwikkeling"/>
+<item label="Hulp bij digitaal" link="/nl/hulp-en-ontwikkeling/hulp-bij-digitaal"/>
 <item label="Hulp bij geldzaken" link="/nl/hulp-en-ontwikkeling/hulp-bij-geldzaken"/>
 <item label="Hulp bij taal" link="/nl/hulp-en-ontwikkeling/hulp-bij-taalvaardigheid"/>
 <item label="Hulp bij huiswerk en studeren" link="/nl/hulp-en-ontwikkeling/hulp-bij-huiswerk-en-studeren"/>
-<item label="Hulp bij digitaal: cursussen en workshops" link="/nl/hulp-en-ontwikkeling/cursussen-en-workshops"/>
 </item>
 <item label="">
 <item label="Over OBA" link="/nl/over-oba"/>
 <item label="Werken bij de OBA" link="/nl/over-oba/werken-bij-oba"/>
-<item label="Voor de pers" link="/nl/over-oba/voor-de-pers"/>
 <item label="Bestuur, toezicht en verslagen" link="/nl/over-oba/bestuur-toezicht-en-verslagen"/>
-<item label="Onze missie" link="/nl/over-oba/onze-missie"/>
-<item label="OBA Next" link="/nl/over-oba/oba-next1"/>
+<item label="Voor de pers" link="/nl/over-oba/voor-de-pers"/>
 <item label="Steun OBA" link="nl/over-oba/steun-oba"/>
-<item label="De geschiedenis van de OBA" link="/nl/over-oba/de-geschiedenis-van-oba"/>
 </item>
 <item label="">
 <item label="Klantenservice en contact" link="/nl/contact"/>
-<item label="Lenen en inleveren" link="/nl/contact/lenen-inleveren"/>
-<item label="Online bibliotheek" link="/nl/contact/online-bibliotheek"/>
-<item label="in de Bibliotheek" link="/nl/contact/in-de-bibliotheek"/>
 <item label="Lidmaatschappen" link="/nl/contact/lidmaatschappen"/>
+<item label="Online bibliotheek" link="/nl/contact/online-bibliotheek"/>
 <item label="Huisregels" link="/nl/contact/huisregels"/>
 <item label="Nieuwsbrieven" link="/nl/contact/nieuwsbrieven"/>
 </item>
@@ -81,7 +77,6 @@
 </item>
 </menu>
 <menu id="servicebottom">
-<item label="Algoritmes" link="/nl/recommendation-algorithms"/>
 <item label="Privacystatement" link="/nl/privacy-statement"/>
 <item label="Disclaimer" link="/nl/disclaimer"/>
 </menu>
